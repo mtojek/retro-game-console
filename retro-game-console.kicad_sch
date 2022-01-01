@@ -2450,7 +2450,7 @@
     (property "Value" "R10K" (id 1) (at 251.46 104.14 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (id 2) (at 260.858 102.87 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" (id 2) (at 260.858 102.87 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 259.08 102.87 0)
@@ -2503,7 +2503,7 @@
     (property "Value" "R10K" (id 1) (at 251.46 85.09 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (id 2) (at 260.858 83.82 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" (id 2) (at 260.858 83.82 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 259.08 83.82 0)
@@ -3646,13 +3646,13 @@
       (reference "R17") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/4b6ececa-1c47-49b9-9721-c1891674c6db"
-      (reference "R18") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
+      (reference "R18") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal")
     )
     (path "/417c4c24-c305-41be-8348-76e7579feb15"
       (reference "R19") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
     )
     (path "/426a62f8-cf65-48b3-9dac-dadeff6e3f1b"
-      (reference "R20") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
+      (reference "R20") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal")
     )
     (path "/14ec2fba-b378-4d0b-b95a-ec2ddf937961"
       (reference "SW_A1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH-12mm")
