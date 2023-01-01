@@ -11,7 +11,7 @@
     (tstamp f04cb1ce-25f5-4ae1-ac84-7104da29afdd)
   )
   (fp_rect (start 17.78 0) (end 0 17.78) (layer "F.SilkS") (width 0.12) (fill none) (tstamp a099ec44-8622-497a-b93d-fb2a1905b0ba))
-  (fp_rect (start 18.137629 -0.357629) (end -0.357629 18.182303) (layer "Margin") (width 0.12) (fill none) (tstamp 4f6ca10b-3389-45e4-9df2-f159ddfd0fe9))
+  (fp_rect (start 18.137629 -0.357629) (end -0.357629 18.182303) (layer "F.CrtYd") (width 0.12) (fill none) (tstamp 4f6ca10b-3389-45e4-9df2-f159ddfd0fe9))
   (pad "" np_thru_hole circle (at 2.088762 2.137414) (size 3.2 3.2) (drill 3) (layers *.Mask) (tstamp 0f683d34-4827-4829-9780-d5b71f100541))
   (pad "" np_thru_hole circle (at 15.658921 2.137414) (size 3.2 3.2) (drill 3) (layers *.Mask) (tstamp a449a741-6270-4242-aa09-04b5b2282db0))
   (pad "1" thru_hole circle (at 16.427618 15.333334) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 621f184e-f776-4607-8b16-360f9434f34d))
