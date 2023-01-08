@@ -2697,7 +2697,7 @@
     (property "Value" "R10K" (id 1) (at 251.46 63.5 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (id 2) (at 260.858 62.23 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" (id 2) (at 260.858 62.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 259.08 62.23 0)
@@ -3640,7 +3640,7 @@
       (reference "R15") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal")
     )
     (path "/7896e020-a247-4952-982c-204414362fdb"
-      (reference "R16") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
+      (reference "R16") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal")
     )
     (path "/c4ba95a0-8610-4ffa-972a-bb866f65968c"
       (reference "R17") (unit 1) (value "R10K") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
